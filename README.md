@@ -3,7 +3,10 @@
 ## Descripción del Proyecto
 Este proyecto es una aplicación de Laravel que incluye funcionalidades de inicio de sesión, registro y gestión de usuarios, además de verificaciones de estado de usuario. Utiliza Tailwind CSS para la estilización y Vite para la compilación de activos.
 
-## Funcionalidades
+## ✨ Funcionalidades Implementadas
+
+Este proyecto incluye las siguientes funcionalidades y **2 Plus (Sistema de Autenticación y Soporte Multilenguaje)**
+
 1. **Login y Registro de Usuarios**
    - Registro de usuarios con campos opcionales de apellido y teléfono.
    - Inicio de sesión para usuarios registrados.
@@ -28,11 +31,6 @@ Este proyecto es una aplicación de Laravel que incluye funcionalidades de inici
 
 6. **Configuración de Vite**
    - Configuración de Vite para la compilación de archivos CSS y JS.
-
-
-## ✨ Funcionalidades Implementadas
-
-Este proyecto incluye las siguientes funcionalidades y **2 Plus (Sistema de Autenticación y Soporte Multilenguaje)**
 
 ## Requisitos Previos
 - PHP >= 8.2
